@@ -1,0 +1,8 @@
+.main-container {
+    height: auto;
+    min-height: 100%;
+}
+
+.error-message, .loading {
+    margin-top: 16px;
+}
