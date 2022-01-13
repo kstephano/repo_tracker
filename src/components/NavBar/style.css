@@ -1,0 +1,43 @@
+.wrap-bar { 
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    background-color: #202020;
+    padding: 16px;
+}
+
+.github-icon {
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.github-icon:hover {
+    opacity: .7;
+}
+
+#search-icon {
+    background-color: white;
+    height: 27px;
+    width: 27px;
+    padding: 3px;
+    margin-left: 10px;
+    margin-bottom: -1px;
+    border-radius: 20px;
+    cursor: pointer; 
+}
+
+#search-icon:hover {
+    opacity: .7;
+}
+
+#user-input{
+    padding: 5px;
+    border-radius: 3px;
+}
+
+form {
+    display: flex;
+    align-items: center;
+}
