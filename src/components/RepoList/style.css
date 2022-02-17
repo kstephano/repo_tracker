@@ -24,5 +24,8 @@ h2 {
 }
 
 .welcome-message {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  text-align: center;
   margin: 50px 20px 40px 20px;
 }
